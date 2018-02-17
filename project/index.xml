@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ananya Renuka Balakrishna</title>
-    <link>https://ananyarb.com/project/</link>
+    <link>https://ananyabalakrishna.github.io/project/</link>
     <description>Recent content in Projects on Ananya Renuka Balakrishna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,30 +12,30 @@
     
     <item>
       <title>Cohesive-zone model</title>
-      <link>https://ananyarb.com/project/cohesive-zone-model/</link>
+      <link>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ananyarb.com/project/cohesive-zone-model/</guid>
+      <guid>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</guid>
       <description>&lt;p&gt;Solid-state batteries are promising candidates for high-energy density applications, like powering electric cars. The battery materials, however, mechanically degrade with continuous usage. This degradation limits interfacial kinetics and lowers the battery power-density. I use a cohesive-zone model to investigate the electro-chemo-mechanical coupling that leads to fracture and delamination in solid-state batteries.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phase field crystal model</title>
-      <link>https://ananyarb.com/project/chemo-mechanical-model/</link>
+      <link>https://ananyabalakrishna.github.io/project/chemo-mechanical-model/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ananyarb.com/project/chemo-mechanical-model/</guid>
+      <guid>https://ananyabalakrishna.github.io/project/chemo-mechanical-model/</guid>
       <description>&lt;p&gt;Charging a Li-battery, involves insertion (extraction) of Li-ions from electrode materials. This intercalation induces lattice transformational strains that deform lattices and affect grain boundary migration. In this project, Cahn-Hilliard phase field crystal model is developed, which the composition field of the diffusing species (Li-ions) with the host material lattice symmetry (electrode). The modeling approach provides atomistic insights on lattice distortions and defect formations induced by Li-diffusion.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phase field model</title>
-      <link>https://ananyarb.com/project/phase-field-model/</link>
+      <link>https://ananyabalakrishna.github.io/project/phase-field-model/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ananyarb.com/project/phase-field-model/</guid>
+      <guid>https://ananyabalakrishna.github.io/project/phase-field-model/</guid>
       <description>&lt;p&gt;Ferroelectric materials possess a spontaneous polarization in unit cells, which can be reoriented by applying an electric field or through mechanical forces. At the nanoscale, the polarized unit cells group together to form polarization patterns (microstructures) that determine ferroelectric properties. Using a phase-field model, I predict how a polarization pattern evolves and responds to external loads. The results are applied to design ferroelectric nano-actuators and energy harvesters.&lt;/p&gt;
 </description>
     </item>
