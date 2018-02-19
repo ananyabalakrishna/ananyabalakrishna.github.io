@@ -16,7 +16,10 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</guid>
-      <description>&lt;p&gt;Solid-state batteries are promising candidates for high-energy density applications, like powering electric cars. The battery materials, however, mechanically degrade with continuous usage. This degradation limits interfacial kinetics and lowers the battery power-density. I use a cohesive-zone model to investigate the electro-chemo-mechanical coupling that leads to fracture and delamination in solid-state batteries.&lt;/p&gt;
+      <description>&lt;p&gt;Solid-state batteries are promising candidates for high-energy density applications, like powering electric cars. The battery materials, however, mechanically degrade with continuous usage. This degradation limits interfacial kinetics and lowers the battery power-density. A cohesive-zone model is used to investigate the electro-chemo-mechanical coupling that leads to fracture and delamination in solid-state batteries.&lt;/p&gt;
+
+&lt;p&gt;Collaborators: &lt;a href=&#34;http://web.mit.edu/bucci/www/index.html&#34; target=&#34;_blank&#34;&gt; Giovanna Bucci &lt;/a&gt;Bosch, USA&lt;br/&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/carter&#34; target=&#34;_blank&#34;&gt; W. Craig Carter &lt;/a&gt; Massachusetts Insitute of Technology, USA&lt;br/&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/chiang&#34; target=&#34;_blank&#34;&gt;Yet-Ming Chiang&lt;/a&gt; Massachusetts Insitute of Technology, USA&lt;/p&gt;
 </description>
     </item>
     
@@ -27,6 +30,9 @@
       
       <guid>https://ananyabalakrishna.github.io/project/chemo-mechanical-model/</guid>
       <description>&lt;p&gt;Charging a Li-battery, involves insertion (extraction) of Li-ions from electrode materials. This intercalation induces lattice transformational strains that deform lattices and affect grain boundary migration. In this project, Cahn-Hilliard phase field crystal model is developed, which the composition field of the diffusing species (Li-ions) with the host material lattice symmetry (electrode). The modeling approach provides atomistic insights on lattice distortions and defect formations induced by Li-diffusion.&lt;/p&gt;
+
+&lt;p&gt;Collaborators: &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/carter&#34; target=&#34;_blank&#34;&gt; W. Craig Carter &lt;/a&gt; Massachusetts Insitute of Technology, USA
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/chiang&#34; target=&#34;_blank&#34;&gt;Yet-Ming Chiang&lt;/a&gt; Massachusetts Insitute of Technology, USA &lt;br/&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -36,7 +42,18 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ananyabalakrishna.github.io/project/phase-field-model/</guid>
-      <description>&lt;p&gt;Ferroelectric materials possess a spontaneous polarization in unit cells, which can be reoriented by applying an electric field or through mechanical forces. At the nanoscale, the polarized unit cells group together to form polarization patterns (microstructures) that determine ferroelectric properties. Using a phase-field model, I predict how a polarization pattern evolves and responds to external loads. The results are applied to design ferroelectric nano-actuators and energy harvesters.&lt;/p&gt;
+      <description>&lt;p&gt;Ferroelectric materials possess a spontaneous polarization in unit cells, which can be reoriented by applying an electric field or through mechanical forces. At the nanoscale, the polarized unit cells group together to form polarization patterns (microstructures) that determine ferroelectric properties. Using a phase-field model, I predict how a polarization pattern evolves and responds to external loads. The results are applied to design ferroelectric nano-actuators and energy harvesters. &lt;br/&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ztD5YWDULdI?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cC4XU-O_1f0?rel=0&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 360px; height: 365px;&#34; src=&#34;https://ananyabalakrishna.github.io/img/Laminates.png&#34;&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div align=&#34;center&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/oqyisne1oFQ?rel=0&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;Collaborators: &lt;a href=&#34;http://www.eng.ox.ac.uk/solidmech/people/professor-john-huber&#34; target=&#34;_blank&#34;&gt; John Huber &lt;/a&gt;University of Oxford, UK&lt;br/&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://www.ibs.kit.edu/287_518.php&#34; target=&#34;_blank&#34;&gt;Ingo Muench&lt;/a&gt; Karlsruhe Insitute of Technology, Germany &lt;br/&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://www.ae.utexas.edu/~landis/Landis/Contact.html&#34; target=&#34;_blank&#34;&gt; Chad Landis &lt;/a&gt; University of Texas at Austin, USA&lt;/p&gt;
 </description>
     </item>
     
