@@ -128,28 +128,66 @@
     </item>
     
     <item>
-      <title>Cohesive-zone model</title>
-      <link>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</link>
+      <title>1. Phase field model</title>
+      <link>https://ananyabalakrishna.github.io/project/phase-field-model/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</guid>
-      <description>&lt;p&gt;Solid-state batteries are promising candidates for high-energy density applications, like powering electric cars. The battery materials, however, mechanically degrade with continuous usage. This degradation limits interfacial kinetics and lowers the battery power-density. A cohesive-zone model is used to investigate the electro-chemo-mechanical coupling that leads to fracture and delamination in solid-state batteries.&lt;/p&gt;
+      <guid>https://ananyabalakrishna.github.io/project/phase-field-model/</guid>
+      <description>&lt;p&gt;Ferroelectric materials possess a spontaneous polarization in unit cells, which can be reoriented by applying an electric field or through mechanical forces. At the nanoscale, the polarized unit cells group together to form polarization patterns (microstructures) that determine ferroelectric properties. Using a phase-field model, I predict how a polarization pattern evolves and responds to external loads. The results are applied to design ferroelectric nano-actuators and energy harvesters. Furthermore, the results motivate research towards developing prospective nanoscale applications from other smart materials, such as relaxors and ferromagnets.&lt;/p&gt;
 
-&lt;p&gt;Collaborators: &lt;a href=&#34;http://web.mit.edu/bucci/www/index.html&#34; target=&#34;_blank&#34;&gt; Giovanna Bucci &lt;/a&gt;Bosch, USA&lt;br/&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/carter&#34; target=&#34;_blank&#34;&gt; W. Craig Carter &lt;/a&gt; Massachusetts Insitute of Technology, USA&lt;br/&gt;
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/chiang&#34; target=&#34;_blank&#34;&gt;Yet-Ming Chiang&lt;/a&gt; Massachusetts Insitute of Technology, USA&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Below are some examples of actuation cycles simulated using phase-field methods. In these videos, you&amp;rsquo;ll see the polarization pattern evolving in the ferroelectric material on the left-side of the frame. The corresponding actuation strains are plotted on the right-side of the frame.&lt;/p&gt;
+
+&lt;p&gt;Example 1 &amp;ndash; Embedded nanoactuator
+&lt;div align=&#34;center&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ztD5YWDULdI?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Example 2 &amp;ndash; Bending nanoactuator
+&lt;div align=&#34;center&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cC4XU-O_1f0?rel=0&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a brief explanation of how the actuators work:
+&lt;div align=&#34;center&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_IdWQXNHJbo?start=89&amp;end=146&amp;rel=0&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;I use the phase-field model as a design tool to develop ferroelectric energy harvesters and memory elements. The results from the simulations assist in developing device prototypes and eventually benefit industrial fabrication. Furthermore, I use the phase-field model to test the stability of laminate patterns in ferroelectrics.
+&lt;br&gt;&lt;/p&gt;
+
+&lt;div align=&#34;center&#34;&gt;&lt;img style=&#34;width: 400px; height: 513px;&#34; src=&#34;https://ananyabalakrishna.github.io/img/Laminates_zero_load.png&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;The figure above illustrates the stability of in-plane polarized laminate patterns under zero external loads. While the herringbone laminate patterns in subfigure (a) is stable at equilibrium, the other complex laminates (b-c) dissolve to form simpler polarization patterns at equilibrium. &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.174120&#34;&gt; In this paper, &lt;/a&gt; I stabilized the laminate patterns by applying mechanical stresses and electric fields. These results explain prior experimental observations of polarization patterns and provide useful insights on how to engineer domain configurations for nanoscale ferroelectric applications.
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Collaborators: &lt;a href=&#34;http://www.eng.ox.ac.uk/solidmech/people/professor-john-huber&#34; target=&#34;_blank&#34;&gt; John Huber &lt;/a&gt;University of Oxford, UK&lt;br/&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;http://www.ibs.kit.edu/287_518.php&#34; target=&#34;_blank&#34;&gt;Ingo Muench&lt;/a&gt; Karlsruhe Insitute of Technology, Germany &lt;br/&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://www.ae.utexas.edu/~landis/Landis/Contact.html&#34; target=&#34;_blank&#34;&gt; Chad Landis &lt;/a&gt; University of Texas at Austin, USA
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Related references&lt;br/&gt;
+&lt;a href=&#34;http://iopscience.iop.org/article/10.1088/0964-1726/23/8/085016/meta&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Nanoactuators&lt;/a&gt; &lt;a href=&#34;http://iopscience.iop.org/article/10.1088/0964-1726/25/10/104001/meta&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Energy harvester&lt;/a&gt; &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.174120&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Laminates&lt;/a&gt;&lt;a href=&#34;http://aip.scitation.org/doi/10.1063/1.4913917&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Vortex pattern&lt;/a&gt;
+&lt;p style = &#34;font-size:16px; color:#808080&#34; &gt; Note pdfs (preprints) of these papers are available for educational purposes on the &lt;a href=&#34;https://ananyabalakrishna.github.io/#publications_selected&#34;&gt;publications&lt;/a&gt; page&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Phase field crystal model</title>
+      <title>2. Phase field crystal model</title>
       <link>https://ananyabalakrishna.github.io/project/chemo-mechanical-model/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ananyabalakrishna.github.io/project/chemo-mechanical-model/</guid>
-      <description>&lt;p&gt;Charging a Li-battery, involves insertion (extraction) of Li-ions from electrode materials. This intercalation induces lattice transformational strains that deform lattices and affect grain boundary migration. In this project, Cahn-Hilliard phase field crystal model is developed, which the composition field of the diffusing species (Li-ions) with the host material lattice symmetry (electrode). The modeling approach provides atomistic insights on lattice distortions and defect formations induced by Li-diffusion.&lt;/p&gt;
+      <description>&lt;p&gt;Charging a Li-battery, involves insertion (extraction) of Li-ions from electrode materials. This intercalation of the diffusing species (Li-ion) induces lattice transformational strains in the host material (electrode). In this project, I develop a Cahn-Hilliard phase field crystal model, which couples the composition field of the diffusing species with the host lattice symmetry. The modeling approach provides atomistic insights on lattice distortions and defect formations induced by Li-diffusion.&lt;/p&gt;
+
+&lt;p&gt;Here is an example of the phase transition showing structural evolution of lattices from a hexagonal (in blue), to a square symmetry (in red).
+&lt;div align=&#34;center&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/f-PQ4YKatOs?rel=0&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;The model is applied to describe lattice deformation in a nanoparticle electrode during an electrochemical cycle. In the video below (left), Li-ions diffuse into the electrode particle and are illustrated by the changing composition field, &lt;i&gt;c&lt;/i&gt;). On the right-side, the lattice-arrangements in the host electrode material are illustrated to evolve during the cycle. The triple-junction drag-effect (A) and grain-boundary migration (B) can be observed.
+&lt;div align=&#34;center&#34;&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/CEuFr5WBSqo?rel=0&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Collaborators: &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/carter&#34; target=&#34;_blank&#34;&gt; W. Craig Carter &lt;/a&gt; Massachusetts Insitute of Technology, USA
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/chiang&#34; target=&#34;_blank&#34;&gt;Yet-Ming Chiang&lt;/a&gt; Massachusetts Insitute of Technology, USA &lt;br/&gt;&lt;/p&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/chiang&#34; target=&#34;_blank&#34;&gt;Yet-Ming Chiang&lt;/a&gt; Massachusetts Insitute of Technology, USA &lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Related references&lt;br/&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1712.03503&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Cahn-Hilliard phase field crystal model&lt;/a&gt; &lt;a href=&#34;mailto:ananyarb@mit.edu?subject=Request for the preprint of CHPFC-LIB paper&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt; Application to lithium batteries&lt;/a&gt;
+&lt;p style = &#34;font-size:16px; color:#808080&#34; &gt; Note pdfs (preprints) of these papers are available for educational purposes on the &lt;a href=&#34;https://ananyabalakrishna.github.io/#publications_selected&#34;&gt;publications&lt;/a&gt; page&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
