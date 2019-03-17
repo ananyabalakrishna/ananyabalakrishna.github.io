@@ -2,111 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Ananya Renuka Balakrishna</title>
-    <link>https://ananyabalakrishna.github.io/talk/</link>
+    <link>http://ananyabalakrishna.com/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Ananya Renuka Balakrishna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; AnanyaRB 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Ananya RB 2019</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://ananyabalakrishna.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>A conceptual design of a ferroelectric energy harvester</title>
-      <link>https://ananyabalakrishna.github.io/talk/9_asme_2014/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Example Talk</title>
+      <link>http://ananyabalakrishna.com/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0100</pubDate>
       
-      <guid>https://ananyabalakrishna.github.io/talk/9_asme_2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling Phase Transition in Battery Electrodes Using the Coupled Cahn-Hilliard – Phase Field Crystal Methods</title>
-      <link>https://ananyabalakrishna.github.io/talk/0_ecs_2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/0_ecs_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling phase transition in lithium batteries using multi-scale continuum models</title>
-      <link>https://ananyabalakrishna.github.io/talk/1_grs_2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/1_grs_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling and analysis of resonant beam micro-pressure sensor</title>
-      <link>https://ananyabalakrishna.github.io/talk/11_btech_bestpaper_2012/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/11_btech_bestpaper_2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nano-actuator concepts</title>
-      <link>https://ananyabalakrishna.github.io/talk/10_falling_walls2014/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/10_falling_walls2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phase field crystal modeling of coherent interfaces in lithium batteries</title>
-      <link>https://ananyabalakrishna.github.io/talk/3_ecs_2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/3_ecs_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phase field crystal modeling of nanoscale electrodes</title>
-      <link>https://ananyabalakrishna.github.io/talk/2_aps_2018/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/2_aps_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phase field crystal modeling using transformation matrices</title>
-      <link>https://ananyabalakrishna.github.io/talk/4_mrs_2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/4_mrs_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phase-field modeling of material microstructures</title>
-      <link>https://ananyabalakrishna.github.io/talk/5_uminn_2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/5_uminn_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phase-field modelling of polarization patterns in ferroelectrics</title>
-      <link>https://ananyabalakrishna.github.io/talk/7_esmc_2015/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/7_esmc_2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stability of laminate patterns in ferroelectrics</title>
-      <link>https://ananyabalakrishna.github.io/talk/6_pire_2015/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/talk/6_pire_2015/</guid>
-      <description></description>
+      <guid>http://ananyabalakrishna.com/talk/example/</guid>
+      <description>Click on the Slides button above to view the built-in slides feature.
+  Slides can be added in a few ways:
+ Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
     </item>
     
   </channel>

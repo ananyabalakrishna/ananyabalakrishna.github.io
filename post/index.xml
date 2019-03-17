@@ -2,20 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ananya Renuka Balakrishna</title>
-    <link>https://ananyabalakrishna.github.io/post/</link>
+    <link>http://ananyabalakrishna.com/post/</link>
     <description>Recent content in Posts on Ananya Renuka Balakrishna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; AnanyaRB 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Ananya RB 2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://ananyabalakrishna.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Podcast: Did you know that batteries emit sound as they are cycled?</title>
-      <link>https://ananyabalakrishna.github.io/post/podcast/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Educational Podcast: Did you know that batteries emit sound as they are cycled?</title>
+      <link>http://ananyabalakrishna.com/post/podcast/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://ananyabalakrishna.github.io/post/podcast/</guid>
+      <guid>http://ananyabalakrishna.com/post/podcast/</guid>
       <description></description>
     </item>
     
