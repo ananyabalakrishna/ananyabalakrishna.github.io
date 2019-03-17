@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ananya Renuka Balakrishna on Ananya Renuka Balakrishna</title>
-    <link>http://ananyabalakrishna.com/</link>
+    <link>https://ananyabalakrishna.github.io/</link>
     <description>Recent content in Ananya Renuka Balakrishna on Ananya Renuka Balakrishna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Example Talk</title>
-      <link>http://ananyabalakrishna.com/talk/example/</link>
+      <link>https://ananyabalakrishna.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0100</pubDate>
       
-      <guid>http://ananyabalakrishna.com/talk/example/</guid>
+      <guid>https://ananyabalakrishna.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
@@ -38,19 +38,19 @@
     
     <item>
       <title>Mechanical instability of electrode/electrolyte interfaces in solid-state batteries</title>
-      <link>http://ananyabalakrishna.com/publication/10_gb_arb_etal_2018/</link>
+      <link>https://ananyabalakrishna.github.io/publication/10_gb_arb_etal_2018/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/10_gb_arb_etal_2018/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/10_gb_arb_etal_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>http://ananyabalakrishna.com/tutorial/example/</link>
+      <link>https://ananyabalakrishna.github.io/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>http://ananyabalakrishna.com/tutorial/example/</guid>
+      <guid>https://ananyabalakrishna.github.io/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -67,37 +67,37 @@
     
     <item>
       <title>Li-diffusion accelerates grain growth in intercalation electrodes: a phase-field study</title>
-      <link>http://ananyabalakrishna.com/publication/9_arb_wcc_2018/</link>
+      <link>https://ananyabalakrishna.github.io/publication/9_arb_wcc_2018/</link>
       <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/9_arb_wcc_2018/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/9_arb_wcc_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Periodic boundary conditions for the simulation of 3D domain patterns in tetragonal ferroelectric material</title>
-      <link>http://ananyabalakrishna.com/publication/2_im_arb_jeh_2018/</link>
+      <link>https://ananyabalakrishna.github.io/publication/2_im_arb_jeh_2018/</link>
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/2_im_arb_jeh_2018/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/2_im_arb_jeh_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining phase field crystal methods with a Cahn-Hilliard model for binary alloys</title>
-      <link>http://ananyabalakrishna.com/publication/1_arb_wcc_2018/</link>
+      <link>https://ananyabalakrishna.github.io/publication/1_arb_wcc_2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/1_arb_wcc_2018/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/1_arb_wcc_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase field model</title>
-      <link>http://ananyabalakrishna.com/project/phase-field-model/</link>
+      <link>https://ananyabalakrishna.github.io/project/phase-field-model/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/project/phase-field-model/</guid>
+      <guid>https://ananyabalakrishna.github.io/project/phase-field-model/</guid>
       <description>&lt;p&gt;Ferroelectric materials possess a spontaneous polarization in unit cells, which can be reoriented by applying an electric field or through mechanical forces. At the nanoscale, the polarized unit cells group together to form polarization patterns (microstructures) that determine ferroelectric properties. Using a phase-field model, I predict how a polarization pattern evolves and responds to external loads. The results are applied to design ferroelectric nano-actuators and energy harvesters. Furthermore, the results motivate research towards developing prospective nanoscale applications from other smart materials, such as relaxors and ferromagnets.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -118,7 +118,7 @@
 &lt;p&gt;I use the phase-field model as a design tool to develop ferroelectric energy harvesters and memory elements. The results from the simulations assist in developing device prototypes and eventually benefit industrial fabrication. Furthermore, I use the phase-field model to test the stability of laminate patterns in ferroelectrics.
 &lt;br&gt;&lt;/p&gt;
 
-&lt;div align=&#34;center&#34;&gt;&lt;img style=&#34;width: 400px; height: 513px;&#34; src=&#34;http://ananyabalakrishna.com/img/Laminates_zero_load.png&#34;&gt;&lt;/div&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;img style=&#34;width: 400px; height: 513px;&#34; src=&#34;https://ananyabalakrishna.github.io/img/Laminates_zero_load.png&#34;&gt;&lt;/div&gt;
 
 &lt;p&gt;The figure above illustrates the stability of in-plane polarized laminate patterns under zero external loads. While the herringbone laminate patterns in subfigure (a) is stable at equilibrium, the other complex laminates (b-c) dissolve to form simpler polarization patterns at equilibrium. &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.174120&#34; target=&#34;_blank&#34;&gt; In this paper, &lt;/a&gt; I stabilized the laminate patterns by applying mechanical stresses and electric fields. These results explain prior experimental observations of polarization patterns and provide useful insights on how to engineer domain configurations for nanoscale ferroelectric applications.
 &lt;br&gt;&lt;/p&gt;
@@ -129,16 +129,16 @@
 
 &lt;p&gt;Related references&lt;br/&gt;
 &lt;a href=&#34;http://iopscience.iop.org/article/10.1088/0964-1726/23/8/085016/meta&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Nanoactuators&lt;/a&gt; &lt;a href=&#34;http://iopscience.iop.org/article/10.1088/0964-1726/25/10/104001/meta&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Energy harvester&lt;/a&gt; &lt;a href=&#34;https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.174120&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Laminates&lt;/a&gt;&lt;a href=&#34;http://aip.scitation.org/doi/10.1063/1.4913917&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Vortex pattern&lt;/a&gt;
-&lt;p style = &#34;font-size:16px; color:#808080&#34; &gt; Note pdfs (preprints) of these papers are available for educational purposes on the &lt;a href=&#34;http://ananyabalakrishna.com/#publications&#34;&gt;publications&lt;/a&gt; page&lt;/p&gt;&lt;/p&gt;
+&lt;p style = &#34;font-size:16px; color:#808080&#34; &gt; Note pdfs (preprints) of these papers are available for educational purposes on the &lt;a href=&#34;https://ananyabalakrishna.github.io/#publications&#34;&gt;publications&lt;/a&gt; page&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phase field crystal model</title>
-      <link>http://ananyabalakrishna.com/project/chemo-mechanical-model/</link>
+      <link>https://ananyabalakrishna.github.io/project/chemo-mechanical-model/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/project/chemo-mechanical-model/</guid>
+      <guid>https://ananyabalakrishna.github.io/project/chemo-mechanical-model/</guid>
       <description>&lt;p&gt;Charging a Li-battery, involves insertion (extraction) of Li-ions from electrode materials. This intercalation of the diffusing species (Li-ion) induces lattice transformational strains in the host material (electrode). In this project, I develop a Cahn-Hilliard phase field crystal model, which couples the composition field of the diffusing species with the host lattice symmetry. The modeling approach provides atomistic insights on lattice distortions and defect formations induced by Li-diffusion.&lt;/p&gt;
 
 &lt;p&gt;Here is an example of the phase transition showing structural evolution of lattices from a hexagonal (in blue), to a square symmetry (in red).
@@ -152,16 +152,16 @@
 
 &lt;p&gt;Related references&lt;br/&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1712.03503&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;&#34;&gt;&lt;/i&gt;Cahn-Hilliard phase field crystal model&lt;/a&gt; &lt;a href=&#34;mailto:ananyarb@mit.edu?subject=Request for the preprint of CHPFC-LIB paper&#34; class=&#34;btn btn-primary btn-outline btn-lg&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt; Application to lithium batteries&lt;/a&gt;
-&lt;p style = &#34;font-size:16px; color:#808080&#34; &gt; Note pdfs (preprints) of these papers are available for educational purposes on the &lt;a href=&#34;http://ananyabalakrishna.com/#publications&#34;&gt;publications&lt;/a&gt; page&lt;/p&gt;&lt;/p&gt;
+&lt;p style = &#34;font-size:16px; color:#808080&#34; &gt; Note pdfs (preprints) of these papers are available for educational purposes on the &lt;a href=&#34;https://ananyabalakrishna.github.io/#publications&#34;&gt;publications&lt;/a&gt; page&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cohesive-zone model</title>
-      <link>http://ananyabalakrishna.com/project/cohesive-zone-model/</link>
+      <link>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/project/cohesive-zone-model/</guid>
+      <guid>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</guid>
       <description>&lt;p&gt;Solid-state batteries are promising candidates for high-energy density applications, like powering electric cars. The battery materials, however, mechanically degrade with continuous usage. This degradation limits interfacial kinetics and lowers the battery power-density. A cohesive-zone model is used to investigate the electro-chemo-mechanical coupling that leads to fracture and delamination in solid-state batteries.&lt;/p&gt;
 
 &lt;p&gt;Collaborators: &lt;a href=&#34;https://ravnsbaekgroup.wordpress.com/&#34; target=&#34;_blank&#34;&gt; Dorthe Ravnsbaek &lt;/a&gt;SDU, Denmark&lt;br/&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;http://web.mit.edu/bucci/www/index.html&#34; target=&#34;_blank&#34;&gt; Giovanna Bucci &lt;/a&gt;Bosch, USA&lt;br/&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://dmse.mit.edu/faculty/profile/carter&#34; target=&#34;_blank&#34;&gt; W. Craig Carter &lt;/a&gt; Massachusetts Insitute of Technology, USA&lt;br/&gt;
@@ -171,55 +171,55 @@
     
     <item>
       <title>Nanoscale periodic domain patterns in tetragonal ferroelectrics: A phase-field study</title>
-      <link>http://ananyabalakrishna.com/publication/3_arb_im_jeh_2016/</link>
+      <link>https://ananyabalakrishna.github.io/publication/3_arb_im_jeh_2016/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/3_arb_im_jeh_2016/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/3_arb_im_jeh_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Educational Podcast: Did you know that batteries emit sound as they are cycled?</title>
-      <link>http://ananyabalakrishna.com/post/podcast/</link>
+      <link>https://ananyabalakrishna.github.io/post/podcast/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://ananyabalakrishna.com/post/podcast/</guid>
+      <guid>https://ananyabalakrishna.github.io/post/podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nanoscale domain patterns and a concept for an energy harvester</title>
-      <link>http://ananyabalakrishna.com/publication/4_arb_jeh_2016/</link>
+      <link>https://ananyabalakrishna.github.io/publication/4_arb_jeh_2016/</link>
       <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/4_arb_jeh_2016/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/4_arb_jeh_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scale effects and the formation of polarisation vortices in tetragonal ferroelectrics</title>
-      <link>http://ananyabalakrishna.com/publication/5_arb_jeh_2015/</link>
+      <link>https://ananyabalakrishna.github.io/publication/5_arb_jeh_2015/</link>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/5_arb_jeh_2015/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/5_arb_jeh_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study of periodic domain patterns in tetragonal ferroelectrics using phase-field methods</title>
-      <link>http://ananyabalakrishna.com/publication/7_arb_jeh_2015c/</link>
+      <link>https://ananyabalakrishna.github.io/publication/7_arb_jeh_2015c/</link>
       <pubDate>Tue, 17 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/7_arb_jeh_2015c/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/7_arb_jeh_2015c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nano-actuator concepts based on ferroelectric switching</title>
-      <link>http://ananyabalakrishna.com/publication/6_arb_jeh_2014_2/</link>
+      <link>https://ananyabalakrishna.github.io/publication/6_arb_jeh_2014_2/</link>
       <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/publication/6_arb_jeh_2014_2/</guid>
+      <guid>https://ananyabalakrishna.github.io/publication/6_arb_jeh_2014_2/</guid>
       <description></description>
     </item>
     

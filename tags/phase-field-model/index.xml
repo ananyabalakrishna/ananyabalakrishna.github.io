@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phase-field-model on Ananya Renuka Balakrishna</title>
-    <link>http://ananyabalakrishna.com/tags/phase-field-model/</link>
+    <link>https://ananyabalakrishna.github.io/tags/phase-field-model/</link>
     <description>Recent content in phase-field-model on Ananya Renuka Balakrishna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ananya RB 2019</copyright>
     <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ananyabalakrishna.com/tags/phase-field-model/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ananyabalakrishna.github.io/tags/phase-field-model/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phase field model</title>
-      <link>http://ananyabalakrishna.com/project/phase-field-model/</link>
+      <link>https://ananyabalakrishna.github.io/project/phase-field-model/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/project/phase-field-model/</guid>
+      <guid>https://ananyabalakrishna.github.io/project/phase-field-model/</guid>
       <description>Ferroelectric materials possess a spontaneous polarization in unit cells, which can be reoriented by applying an electric field or through mechanical forces. At the nanoscale, the polarized unit cells group together to form polarization patterns (microstructures) that determine ferroelectric properties. Using a phase-field model, I predict how a polarization pattern evolves and responds to external loads. The results are applied to design ferroelectric nano-actuators and energy harvesters. Furthermore, the results motivate research towards developing prospective nanoscale applications from other smart materials, such as relaxors and ferromagnets.</description>
     </item>
     

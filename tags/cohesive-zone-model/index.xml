@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cohesive-zone-model on Ananya Renuka Balakrishna</title>
-    <link>http://ananyabalakrishna.com/tags/cohesive-zone-model/</link>
+    <link>https://ananyabalakrishna.github.io/tags/cohesive-zone-model/</link>
     <description>Recent content in cohesive-zone-model on Ananya Renuka Balakrishna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ananya RB 2019</copyright>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ananyabalakrishna.com/tags/cohesive-zone-model/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ananyabalakrishna.github.io/tags/cohesive-zone-model/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cohesive-zone model</title>
-      <link>http://ananyabalakrishna.com/project/cohesive-zone-model/</link>
+      <link>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://ananyabalakrishna.com/project/cohesive-zone-model/</guid>
+      <guid>https://ananyabalakrishna.github.io/project/cohesive-zone-model/</guid>
       <description>Solid-state batteries are promising candidates for high-energy density applications, like powering electric cars. The battery materials, however, mechanically degrade with continuous usage. This degradation limits interfacial kinetics and lowers the battery power-density. A cohesive-zone model is used to investigate the electro-chemo-mechanical coupling that leads to fracture and delamination in solid-state batteries.
 Collaborators: Dorthe Ravnsbaek SDU, Denmark &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Giovanna Bucci Bosch, USA &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; W. Craig Carter  Massachusetts Insitute of Technology, USA &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Yet-Ming Chiang Massachusetts Insitute of Technology, USA</description>
     </item>
