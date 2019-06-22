@@ -1,96 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Ananya Renuka Balakrishna</title>
-    <link>https://ananyabalakrishna.github.io/authors/</link>
-    <description>Recent content in Authors on Ananya Renuka Balakrishna</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Authors on Academic</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Ananya RB 2019</copyright>
-    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ananyabalakrishna.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>AR Balakrishna</title>
-      <link>https://ananyabalakrishna.github.io/authors/ar-balakrishna/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/authors/ar-balakrishna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B Talamini</title>
-      <link>https://ananyabalakrishna.github.io/authors/b-talamini/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/authors/b-talamini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CM Landis</title>
-      <link>https://ananyabalakrishna.github.io/authors/cm-landis/</link>
-      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/authors/cm-landis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G Bucci</title>
-      <link>https://ananyabalakrishna.github.io/authors/g-bucci/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/authors/g-bucci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I Muench</title>
-      <link>https://ananyabalakrishna.github.io/authors/i-muench/</link>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/authors/i-muench/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JE Huber</title>
-      <link>https://ananyabalakrishna.github.io/authors/je-huber/</link>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/authors/je-huber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WC Carter</title>
-      <link>https://ananyabalakrishna.github.io/authors/wc-carter/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/authors/wc-carter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y-M Chiang</title>
-      <link>https://ananyabalakrishna.github.io/authors/y-m-chiang/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ananyabalakrishna.github.io/authors/y-m-chiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>https://ananyabalakrishna.github.io/authors/admin/</link>
+      <title></title>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ananyabalakrishna.github.io/authors/admin/</guid>
-      <description></description>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
