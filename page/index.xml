@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Solids &amp; Materials Lab</title>
+    <link>http://ananyabalakrishna.com/page/</link>
+    <description>Recent content in Pages on Solids &amp; Materials Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://ananyabalakrishna.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>http://ananyabalakrishna.com/research/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://ananyabalakrishna.com/research/</guid>
+      <description>Functional materials  We engineer microstructures in ferroelectric materials to develop novel nanoscale device concepts, such as actuators and energy harvesters.
+Functional materials are characterized by their native properties and functions of their own, such as ferroelectricity, magnetism and light-interactive properties. These materials show a large response to small stimuli and are used in sensors, actuators, memory devices and energy harvesters. We develop multi-physics models to computationally engineer material microstructures that can drastically enhance material performance.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://ananyabalakrishna.com/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ananyabalakrishna.com/people/</guid>
+      <description>Ananya Renuka Balakrishna Provost&amp;rsquo;s Assistant Professor Fellow
+Starting Fall 2020 CV
+I will be recruiting two PhD students starting August 2020. You neither need to be a coding expert nor have had multiple publications. You simply need to be interested to pursue research at the intersection of solid mechanics, materials and mathematics. Please feel free to email me with questions at arenukab@umn.edu.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://ananyabalakrishna.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ananyabalakrishna.com/publications/</guid>
+      <description>2019 Balakrishna, A. R., Chiang, Y. M., &amp;amp; Carter, W. C. (2019). Phase-field model for diffusion-induced grain boundary migration: An application to battery electrodes. Physical Review Materials, 3(6), 065404. PDF
+Christensen, C. K., Mamakhel, A., Balakrishna, A. R., Iversen, B. B., Chiang, Y. M., &amp;amp; Ravnsbæk, D. (2019). Order-disorder transition in nano-rutile TiO2 anodes: A high capacity low-volume change Li-ion battery material. Nanoscale, 11, 12347-12357. PDF
+2018 Balakrishna, A. R.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://ananyabalakrishna.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ananyabalakrishna.com/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
