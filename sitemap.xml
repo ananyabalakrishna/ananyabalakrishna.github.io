@@ -1,20 +1,108 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
+    <loc>https://ananyabalakrishna.github.io/</loc>
+    <lastmod>2021-01-29T12:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <priority>0</priority>
+    <loc>https://ananyabalakrishna.github.io/research/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
+    <loc>https://ananyabalakrishna.github.io/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/docs/</loc>
+    <lastmod>2019-06-25T12:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/authors/ananyarb/</loc>
+    <lastmod>2021-01-29T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/authors/</loc>
+    <lastmod>2021-01-29T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/computationalart/</loc>
+    <lastmod>2021-01-29T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/computationalart/ucitalk/</loc>
+    <lastmod>2021-01-29T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/computationalart/mrstalk/</loc>
+    <lastmod>2020-12-01T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/computationalart/caltechtalk/</loc>
+    <lastmod>2020-11-19T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/computationalart/installation/</loc>
+    <lastmod>2019-08-25T02:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/docs/katex-support/</loc>
+    <lastmod>2019-06-25T12:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/tags/og/</loc>
+    <lastmod>2019-06-25T12:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/tags/</loc>
+    <lastmod>2019-06-25T12:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/docs/installation/</loc>
+    <lastmod>2019-06-01T02:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/page/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ananyabalakrishna.github.io/series/</loc>
   </url>
   
 </urlset>

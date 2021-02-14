@@ -1,14 +1,130 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Home on Solids &amp; Materials Lab</title>
+    <link>https://ananyabalakrishna.github.io/</link>
+    <description>Recent content in Home on Solids &amp; Materials Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jan 2021 12:00:00 +0800</lastBuildDate><atom:link href="https://ananyabalakrishna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://ananyabalakrishna.github.io/research/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/research/</guid>
+      <description>Mathematical models #slide-window {position: relative;width: 100%;height: 350px;overflow: hidden;top: 0px;left: 0px;}#slides-list {width: 100%;height: 350px;position: absolute;margin: 0px;padding: 0px;-webkit-transform: translate3d(0px, 0px, 0px);transform: translate3d(0px, 0px, 0px);transition: all 0.66s ease;-webkit-transition: all 0.66s ease;}.slide {list-style: none;position: relative;float: left;margin: 0;padding: 0;width: 100%;height: 350px;background: #ccc;text-align: center;line-height: 100%;background-size: cover;background-position: 50% 50%;color: #fff;-webkit-transform: translate3d(0px, 0px, 0px);-webkit-transform-style: preserve-3d;}.</description>
+    </item>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>People</title>
+      <link>https://ananyabalakrishna.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/people/</guid>
+      <description>Ananya Renuka Balakrishna
+Assistant Professor of Aerospace and Mechanical Engineering (CV)
+Email: renukaba@usc.edu
+Delin Zhang
+Ph.D. Student
+Email: delinzha@usc.edu
+Ashwin Atul Daware
+Master&amp;rsquo;s Student
+Email: daware@usc.edu
+Carl Anthony Kohnke
+Undergraduate Student
+Email: ckohnke@usc.edu
+Benjamin Bedregal Barboza
+Undergraduate Student
+Email: bedregal@usc.edu
+Openings We are always looking for motivated Ph.D. students to join our group. Please visit https://ame.usc.edu/admission/ for further details on the admission process, and feel free to email me with questions at renukaba@usc.</description>
+    </item>
     
+    <item>
+      <title>Publications</title>
+      <link>https://ananyabalakrishna.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/publications/</guid>
+      <description>2021 Balakrishna, A. R., &amp;amp; James, R. D. (2021). A tool to predict coercivity in magnetic materials. Acta Materialia, 116697. PDF
+Balakrishna, A.R., &amp;amp; James, R. D. (2021). A solution to the permalloy problem. arXiv e-prints, arXiv-2101. PDF
+2019 Balakrishna, A. R., Chiang, Y. M., &amp;amp; Carter, W. C. (2019). Phase-field model for diffusion-induced grain boundary migration: An application to battery electrodes. Physical Review Materials, 3(6), 065404. PDF
+Christensen, C. K.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ananyabalakrishna.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/teaching/</guid>
+      <description>2021 Fall Semester (August 23 &amp;ndash; December 3)</description>
+    </item>
+    
+    <item>
+      <title>Invited talk on energy-related materials at UC Irvine&#39;s MAE seminar series.</title>
+      <link>https://ananyabalakrishna.github.io/computationalart/ucitalk/</link>
+      <pubDate>Fri, 29 Jan 2021 12:00:00 +0800</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/computationalart/ucitalk/</guid>
+      <description>Mathematical Design of Energy-related Materials Today, we have a need to not only discover materials with enhanced properties but to do them urgently &amp;ndash; there is a need to establish a quantitative design framework to accelerate materials development. Finding these design principles is the focus of our research group. In this talk, we share our recent findings on magnetic materials and battery materials, and propose design conditions to enhance their performance and lifespans.</description>
+    </item>
+    
+    <item>
+      <title>Delin presents his work at the MRS Fall 2020 conference.</title>
+      <link>https://ananyabalakrishna.github.io/computationalart/mrstalk/</link>
+      <pubDate>Tue, 01 Dec 2020 12:00:00 +0800</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/computationalart/mrstalk/</guid>
+      <description>Substrate Strain Enhances the Reversible Cycling of Thin-Film Electrodes References  Balakrishna, A. R., and James, R. D. A solution to the Permalloy problem arXiv preprint arXiv:2101.09857, (2021).  </description>
+    </item>
+    
+    <item>
+      <title>Invited talk on soft magnets at Caltech&#39;s MCE seminar series.</title>
+      <link>https://ananyabalakrishna.github.io/computationalart/caltechtalk/</link>
+      <pubDate>Thu, 19 Nov 2020 12:00:00 +0800</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/computationalart/caltechtalk/</guid>
+      <description>A search for magnetic alloys with low hysteresis In this talk, we explain how a delicate balance between material instability and magnetic constants can dramatically reduce hysteresis in magnetic alloys. These alloys find important applications in wind turbines and induction motors of electric vehicles, and our research could potentially guide in the discovery of novel soft magnets.
+References   Balakrishna, A. R., and James, R. D. A tool to predict coercivity in magnetic materials Acta Materialia (2021): 116697.</description>
+    </item>
+    
+    <item>
+      <title>Mathematics and art</title>
+      <link>https://ananyabalakrishna.github.io/computationalart/installation/</link>
+      <pubDate>Sun, 25 Aug 2019 02:00:00 +0600</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/computationalart/installation/</guid>
+      <description>We draw inspiration from geometric patterns to understand the fundamental principles of symmetry. We apply these mathematical rules in the form of computer codes to generate art. For example, the following Islamic tesssellation is generated by regularly repeating a motif with star polygons (8 nodes, 22 nodes) on a hexagonal lattice.
+Reference  Motif inspiration from &amp;ldquo;Islamic Geometric Design&amp;rdquo; by Eric Broug.  </description>
+    </item>
+    
+    <item>
+      <title>Does electrode crystallography affect a battery&#39;s lifespan?</title>
+      <link>https://ananyabalakrishna.github.io/docs/katex-support/</link>
+      <pubDate>Tue, 25 Jun 2019 12:30:00 +0600</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/docs/katex-support/</guid>
+      <description>Every few years, we notice a drop in our phone&amp;rsquo;s battery capacity. Eventually, we need to replace these batteries, which is not only expensive but also depletes earth&amp;rsquo;s reserves of rare elements. There are several causes for battery fade, such as depletion of active ions, discharge rate and mechanical degration of battery materials. In our recent paper, we demonstrate that repeatedly charging/discharging a battery is another reason, which makes electrodes brittle and prone to failure.</description>
+    </item>
+    
+    <item>
+      <title>What happens inside a rutile electrode during battery operation?</title>
+      <link>https://ananyabalakrishna.github.io/docs/installation/</link>
+      <pubDate>Sat, 01 Jun 2019 02:00:00 +0600</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/docs/installation/</guid>
+      <description>Rutile nano-electrodes undergo structural changes during repeated battery operation  Using a combination of total scattering analysis and transmission electron microscopy, Christensen et al. investigate the atomic-scale structure of the rutile (TiO2) electrode during charge-discharge process. They demonstrated the phase-change behavior of rutile as it transformed from an ordered to a disordered state with repeated cycling.
+Why do these nano-electrodes amorphize and not fracture?  On the theory front, we reasoned as to why the rutile nano-particles amorphized (phase-change behavior) instead of dissipating their stored elastic energy by electrode fracture.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://ananyabalakrishna.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ananyabalakrishna.github.io/search/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
